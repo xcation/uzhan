@@ -1,0 +1,32 @@
+!!com.taobao.tae.config.domain.Config
+ 
+#应用元信息：用于
+ 
+#应用名称标题
+title: HelloWorld
+#应用描述信息
+description: HelloWorld TAE应用的DEMO
+#应用使用的语言，暂时支持PHP语言
+language: php
+#应用的作者
+author: tae
+#应用展示缩略图
+#thumbnail: /assets/images/default-thumbnail.php
+ 
+#type: 1 tae 模块 2 独立站点
+type: 2
+ 
+#全局css的配置 #目前一个应用只能有一个css文件
+css: /assets/stylesheets/default.css
+  
+#首页/index的配置，详见下面的urls中的handler配置
+index: /index.php
+ 
+#http请求配置
+#urls:
+#前端页面,相对于应用根目录
+#以下几种请求访问方式URI均可：
+#URI: /  需要进行index的配置
+#URI: /d/index
+#URI: /view.php
+#- {handler: /view/front/view.php, url: /index}

@@ -1,0 +1,1560 @@
+19:01:26 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:01:26 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.004449s ]
+19:01:26 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002141s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.013569s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:01:26 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001730s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.002943s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:01:26 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.022551s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023562s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:01:26 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.001699s ]
+19:01:26 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000906s ]
+19:01:26 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001936s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006222s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:01:26 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.004799s ]
+19:01:26 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.005980s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:01:28 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001590s ]
+19:01:28 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001101s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004025s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:01:28 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000827s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001578s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:01:28 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.001111s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001705s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:01:28 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.001073s ]
+19:01:28 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000537s ]
+19:01:28 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001276s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004120s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:01:28 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002766s ]
+19:01:28 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.003451s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:01:38 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001218s ]
+19:01:38 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000929s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003125s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:01:38 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000868s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001434s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:01:38 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000777s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001276s ]
+19:01:38 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:01:38 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000805s ]
+19:01:38 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.007858s ]
+19:01:39 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001316s ]
+19:01:39 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011542s ]
+19:01:39 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:01:39 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002469s ]
+19:01:39 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002982s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:31:48 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001677s ]
+19:31:48 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001291s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004578s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:31:48 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000993s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001593s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:31:48 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000886s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001634s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:31:48 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.001034s ]
+19:31:48 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000769s ]
+19:31:48 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001040s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004019s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:31:48 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002321s ]
+19:31:48 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002810s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:31:50 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001231s ]
+19:31:50 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000940s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003149s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:31:50 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000772s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001314s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:31:50 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000642s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001087s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:31:50 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000845s ]
+19:31:50 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000527s ]
+19:31:50 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000954s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003344s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:31:50 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002466s ]
+19:31:50 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002975s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:32:26 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001396s ]
+19:32:26 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001061s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003242s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:32:26 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001190s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001751s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:32:26 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000874s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001370s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:32:26 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.001097s ]
+19:32:26 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000708s ]
+19:32:26 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001254s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004049s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:32:26 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002235s ]
+19:32:26 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002710s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:32:31 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001045s ]
+19:32:31 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000919s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002725s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:32:31 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000693s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001174s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:32:31 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000625s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001046s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:32:31 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000696s ]
+19:32:31 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000471s ]
+19:32:31 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000905s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002975s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:32:31 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002020s ]
+19:32:31 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002450s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:36:36 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001208s ]
+19:36:36 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000891s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003151s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:36:36 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000758s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001227s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:36:36 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000788s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001223s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:36:36 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000775s ]
+19:36:36 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000493s ]
+19:36:36 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000945s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003182s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:36:36 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002129s ]
+19:36:36 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002540s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:36:41 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001865s ]
+19:36:41 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001656s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004954s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:36:41 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000857s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001455s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:36:41 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000654s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001067s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:36:41 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000708s ]
+19:36:41 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000461s ]
+19:36:41 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001180s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003247s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:36:41 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002821s ]
+19:36:41 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.003277s ]
+19:36:45 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/admin]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/admin]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+19:36:46 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+19:48:00 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:48:00 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001193s ]
+19:48:00 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000935s ]
+19:48:00 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003228s ]
+19:52:06 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index/index]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index/index]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+19:52:06 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+19:52:23 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+19:52:23 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001453s ]
+19:52:23 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001137s ]
+19:52:23 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003620s ]
+19:52:30 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+19:52:30 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001747s ]
+19:52:30 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000950s ]
+19:52:30 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003667s ]
+19:53:16 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:53:16 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001164s ]
+19:53:16 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000932s ]
+19:53:16 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002819s ]
+19:55:58 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:55:58 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001793s ]
+19:55:58 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001464s ]
+19:55:58 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004709s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+19:58:51 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001099s ]
+19:58:51 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001085s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003208s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+19:58:51 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000834s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001281s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+19:58:51 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.001360s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001761s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+19:58:51 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000772s ]
+19:58:51 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000543s ]
+19:58:51 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000970s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003138s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+19:58:51 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002177s ]
+19:58:51 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002582s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:00:32 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001339s ]
+20:00:32 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000980s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003106s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:00:32 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000861s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001437s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:00:32 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000828s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001296s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:00:32 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000833s ]
+20:00:32 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000590s ]
+20:00:32 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000995s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003430s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:00:32 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002671s ]
+20:00:32 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.003102s ]
+20:00:41 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/admin]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/admin]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:00:41 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:02:01 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:02:01 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001523s ]
+20:02:01 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001251s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003904s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:02:01 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000842s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001311s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:02:01 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000780s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001276s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:02:01 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000954s ]
+20:02:01 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000715s ]
+20:02:01 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.001274s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004047s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:02:01 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002500s ]
+20:02:01 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.003105s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:02:02 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001010s ]
+20:02:02 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000837s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002614s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:02:02 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000728s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001233s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:02:02 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000686s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001130s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:02:02 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000689s ]
+20:02:02 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000431s ]
+20:02:02 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000842s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002780s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:02:02 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001908s ]
+20:02:02 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002357s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:02:03 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001135s ]
+20:02:03 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000977s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002940s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:02:03 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000829s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001301s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000767s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001256s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000761s ]
+20:02:03 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000544s ]
+20:02:03 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000949s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003097s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002155s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002571s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:02:03 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.000985s ]
+20:02:03 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001474s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003291s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:02:03 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000734s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001164s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000644s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001067s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000663s ]
+20:02:03 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000425s ]
+20:02:03 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000846s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002821s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:02:03 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001845s ]
+20:02:03 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002224s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:02:24 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001296s ]
+20:02:24 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001101s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003220s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:02:24 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000926s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001398s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:02:24 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001555s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002030s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:02:24 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001292s ]
+20:02:24 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000668s ]
+20:02:24 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001006s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003894s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:02:24 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002412s ]
+20:02:24 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002800s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:02:28 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001153s ]
+20:02:28 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001041s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002975s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:02:28 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000814s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001266s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:02:28 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000811s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001226s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:02:28 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000764s ]
+20:02:28 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000524s ]
+20:02:28 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000915s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003060s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:02:28 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002182s ]
+20:02:28 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002565s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:02:58 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001121s ]
+20:02:58 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000930s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002904s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:02:58 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000798s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001186s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:02:58 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000730s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001108s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:02:58 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000775s ]
+20:02:58 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000741s ]
+20:02:58 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001017s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003349s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:02:58 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002135s ]
+20:02:58 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002518s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:03:26 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001111s ]
+20:03:26 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000973s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002870s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:03:26 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000897s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001317s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:03:26 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000726s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001120s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:03:26 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000790s ]
+20:03:26 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000591s ]
+20:03:26 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000942s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003146s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:03:26 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002336s ]
+20:03:26 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002730s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:05:51 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001054s ]
+20:05:51 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001068s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003078s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:05:51 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001369s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001777s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:05:51 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002003s ]
+20:05:51 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002388s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:07:28 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001166s ]
+20:07:28 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000997s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002954s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:07:28 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001383s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001796s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:07:28 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002138s ]
+20:07:28 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002645s ]
+20:11:32 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:11:32 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:11:37 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:11:37 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001190s ]
+20:11:37 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000910s ]
+20:11:37 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003394s ]
+20:11:37 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:11:37 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001374s ]
+20:11:37 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001778s ]
+20:11:37 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:11:37 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+20:11:37 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002481s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:13:10 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001109s ]
+20:13:10 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000959s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003054s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:13:10 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.001492s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001965s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:13:10 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002131s ]
+20:13:10 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002522s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:15:17 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001112s ]
+20:15:17 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000889s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002990s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:15:17 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001337s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001727s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:15:17 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001857s ]
+20:15:17 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002280s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:17:21 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001047s ]
+20:17:21 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000850s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003141s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:17:21 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001238s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001619s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:17:21 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002017s ]
+20:17:21 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002671s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:18:47 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001080s ]
+20:18:47 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000896s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002662s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:18:47 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000881s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001279s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:18:47 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001360s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001749s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:18:47 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000791s ]
+20:18:47 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000652s ]
+20:18:47 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000975s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003273s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:18:47 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002238s ]
+20:18:47 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002618s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:18:58 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001109s ]
+20:18:58 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000986s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002807s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:18:58 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000883s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001351s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:18:58 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001311s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001705s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:18:58 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000768s ]
+20:18:58 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000552s ]
+20:18:58 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000972s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003139s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:18:58 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002027s ]
+20:18:58 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002409s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:19:40 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001806s ]
+20:19:40 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001418s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004271s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:19:40 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001215s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001833s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:19:40 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001082s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001656s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:19:40 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001242s ]
+20:19:40 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000981s ]
+20:19:40 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001514s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005097s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:19:40 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.003193s ]
+20:19:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.003778s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:26:40 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001732s ]
+20:26:40 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001261s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004359s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:26:40 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000843s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001282s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:26:40 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000689s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001120s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:26:40 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000758s ]
+20:26:40 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000560s ]
+20:26:40 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001043s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003160s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:26:40 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002166s ]
+20:26:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002641s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:27:09 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001299s ]
+20:27:09 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000976s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003050s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:27:09 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000786s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001178s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:27:09 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000711s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001092s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:27:09 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000801s ]
+20:27:09 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000569s ]
+20:27:09 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000939s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003121s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:27:09 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002066s ]
+20:27:09 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002446s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:28:56 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001361s ]
+20:28:56 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001364s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004177s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:28:56 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.002072s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.003046s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000744s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001259s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000750s ]
+20:28:56 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000589s ]
+20:28:56 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000944s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003260s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002372s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002811s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:28:56 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.000934s ]
+20:28:56 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000733s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002370s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:28:56 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000766s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001216s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000560s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000942s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000604s ]
+20:28:56 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000395s ]
+20:28:56 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000788s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002664s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:28:56 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001937s ]
+20:28:56 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002328s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:28:58 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001265s ]
+20:28:58 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000874s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004350s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:28:58 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000681s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001094s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:28:58 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000616s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001014s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:28:58 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000810s ]
+20:28:58 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000470s ]
+20:28:58 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000857s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003055s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:28:58 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002232s ]
+20:28:58 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002676s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:29:01 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.000976s ]
+20:29:01 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000760s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002445s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:29:01 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000840s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001289s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:29:01 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000617s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000988s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:29:01 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000764s ]
+20:29:01 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000468s ]
+20:29:01 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000869s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002918s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:29:01 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002050s ]
+20:29:01 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002446s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+20:29:26 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.001010s ]
+20:29:26 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000820s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002536s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+20:29:26 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.000851s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.001258s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+20:29:26 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.000684s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001144s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+20:29:26 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.000708s ]
+20:29:26 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000631s ]
+20:29:26 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.000899s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003100s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+20:29:26 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002016s ]
+20:29:26 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002383s ]
+20:35:36 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:35:36 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001000s ]
+20:35:36 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000830s ]
+20:35:36 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003187s ]
+20:35:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:35:41 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001165s ]
+20:35:41 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000955s ]
+20:35:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002941s ]
+20:35:49 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:35:49 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001178s ]
+20:35:49 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000957s ]
+20:35:49 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002925s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:35:55 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001466s ]
+20:35:55 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001188s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003657s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:35:55 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000851s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001261s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:35:55 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000628s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001007s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:35:55 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000706s ]
+20:35:55 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000536s ]
+20:35:55 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000859s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002901s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:35:55 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001948s ]
+20:35:55 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002323s ]
+20:37:36 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/index.php/Index]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:37:37 [ERROR]: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+java.io.FileNotFoundException: 应用[名称：test]的YMAL配置文件[路径：E:\tae-sdk-2\TAE_SDK\apps\test\app.yml]中定义页面文件[URI映射地址：/favicon.ico]无法找到！
+	at com.taobao.tae.sdk.api.util.YamlConfigFileLocator.getViewPageFile(YamlConfigFileLocator.java:207)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getPhpFile(QuercusServletImpl.java:546)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.getRenderedPhpContent(QuercusServletImpl.java:574)
+	at com.taobao.tae.sdk.app.view.servlet.QuercusServletImpl.service(QuercusServletImpl.java:706)
+	at com.taobao.tae.sdk.app.view.servlet.AppRenderServlet.service(AppRenderServlet.java:219)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:199)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+20:38:24 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:38:24 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.000974s ]
+20:38:24 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000789s ]
+20:38:24 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002776s ]
+20:41:08 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:41:08 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001117s ]
+20:41:08 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000887s ]
+20:41:08 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003065s ]
+20:41:16 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:41:16 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001330s ]
+20:41:16 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001039s ]
+20:41:16 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003254s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:41:20 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001591s ]
+20:41:20 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001319s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004001s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:41:20 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001083s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001687s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:41:20 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000607s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000995s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:41:20 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000728s ]
+20:41:20 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000594s ]
+20:41:20 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000854s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002984s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:41:20 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001962s ]
+20:41:20 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002326s ]
+20:41:36 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:41:36 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001358s ]
+20:41:36 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000874s ]
+20:41:36 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003159s ]
+20:42:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:42:41 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.000992s ]
+20:42:41 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000809s ]
+20:42:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002507s ]
+20:42:46 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:42:46 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001072s ]
+20:42:46 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000839s ]
+20:42:46 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002686s ]
+20:43:16 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:43:16 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001005s ]
+20:43:16 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000884s ]
+20:43:16 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002600s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:43:21 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001246s ]
+20:43:21 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000955s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003044s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:43:21 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000969s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001400s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:43:21 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000636s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001044s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:43:21 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001204s ]
+20:43:21 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000552s ]
+20:43:21 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000921s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003553s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:43:21 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002156s ]
+20:43:21 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002529s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:45:05 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001000s ]
+20:45:05 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000785s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002691s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:45:05 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001272s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001683s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:45:05 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001819s ]
+20:45:05 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002182s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:47:34 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001024s ]
+20:47:34 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000821s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002847s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:47:34 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000687s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001068s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:47:34 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001207s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001577s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:47:34 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000687s ]
+20:47:34 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000476s ]
+20:47:34 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000939s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002907s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:47:34 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001993s ]
+20:47:34 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002387s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:47:52 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001338s ]
+20:47:52 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000971s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003335s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:47:52 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000847s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001320s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:47:52 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000757s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001198s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:47:52 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000816s ]
+20:47:52 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000558s ]
+20:47:52 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001005s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003334s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:47:52 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002205s ]
+20:47:52 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002639s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:48:03 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001130s ]
+20:48:03 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000856s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002757s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:48:03 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000707s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001105s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:48:03 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001256s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001662s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:48:03 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000731s ]
+20:48:03 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000482s ]
+20:48:03 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000860s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002914s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:48:03 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002037s ]
+20:48:03 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002653s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:50:01 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001619s ]
+20:50:01 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001271s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004366s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:50:01 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001155s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001777s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:50:01 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000943s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001653s ]
+20:50:01 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:50:01 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001107s ]
+20:50:01 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+20:50:02 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001418s ]
+20:50:02 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004551s ]
+20:50:02 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:50:02 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002909s ]
+20:50:02 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.003489s ]
+20:53:39 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:53:39 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001054s ]
+20:53:39 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000796s ]
+20:53:39 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002894s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:53:50 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001329s ]
+20:53:50 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001068s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003283s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:53:50 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001022s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001551s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:53:50 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001500s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002008s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:53:50 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001016s ]
+20:53:50 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000477s ]
+20:53:50 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000878s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003333s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:53:50 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001955s ]
+20:53:50 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002327s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:54:49 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001203s ]
+20:54:49 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001018s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003077s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:54:49 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000816s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001298s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:54:49 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000729s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001191s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:54:49 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000817s ]
+20:54:49 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000612s ]
+20:54:49 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001137s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003617s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:54:49 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002060s ]
+20:54:49 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002461s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+20:54:56 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.000970s ]
+20:54:56 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000780s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002446s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+20:54:56 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000698s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001095s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+20:54:56 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.000600s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000967s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+20:54:56 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000637s ]
+20:54:56 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000449s ]
+20:54:56 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000822s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002736s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+20:54:56 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.002059s ]
+20:54:56 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.002447s ]
+22:59:03 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+22:59:05 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:1.237583s ]
+22:59:05 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004793s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:1.306107s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+22:59:05 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.004456s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.007447s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+22:59:05 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.250521s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.252936s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+22:59:05 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.004865s ]
+22:59:05 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.021530s ]
+22:59:05 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.005733s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.035644s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+22:59:05 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.068755s ]
+22:59:05 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.082037s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+22:59:08 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.009888s ]
+22:59:08 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.014373s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.026683s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+22:59:08 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.012604s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.013774s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+22:59:08 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.002562s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003620s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+22:59:08 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.005193s ]
+22:59:08 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.012225s ]
+22:59:08 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.002112s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.022080s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+22:59:08 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.006269s ]
+22:59:08 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.008064s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+23:15:30 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.010206s ]
+23:15:30 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009462s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.021848s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_template ] --START--
+23:15:30 [DEBUG]: / | INFO: Run LocationTemplate Behavior [ RunTime:0.002010s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_template ] --END-- [ RunTime:0.003207s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_parse ] --START--
+23:15:30 [DEBUG]: / | INFO: Run ParseTemplate Behavior [ RunTime:0.001701s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002724s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_filter ] --START--
+23:15:30 [DEBUG]: / | INFO: Run ContentReplace Behavior [ RunTime:0.006817s ]
+23:15:30 [DEBUG]: / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001390s ]
+23:15:30 [DEBUG]: / | INFO: Run ShowRuntime Behavior [ RunTime:0.002195s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012378s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_end ] --START--
+23:15:30 [DEBUG]: / | INFO: Run ShowPageTrace Behavior [ RunTime:0.005771s ]
+23:15:30 [DEBUG]: / | INFO: Tag[ view_end ] --END-- [ RunTime:0.006821s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:15:43 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002386s ]
+23:15:43 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001741s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005856s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:15:43 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001811s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003103s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:15:43 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002181s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003065s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:15:43 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001468s ]
+23:15:43 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000992s ]
+23:15:43 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.002542s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007216s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:15:43 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004665s ]
+23:15:43 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005622s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:23:13 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002563s ]
+23:23:13 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002418s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007389s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:23:13 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001414s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002458s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:23:13 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001419s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002343s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:23:13 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001705s ]
+23:23:13 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001034s ]
+23:23:13 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001762s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006464s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:23:13 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.005158s ]
+23:23:13 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006027s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:23:41 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002199s ]
+23:23:41 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001722s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005870s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:23:41 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001882s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002978s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:23:41 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001332s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002218s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:23:41 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001441s ]
+23:23:41 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001589s ]
+23:23:41 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001918s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007057s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:23:41 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004147s ]
+23:23:41 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005077s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:24:19 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002303s ]
+23:24:19 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002053s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006168s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:24:19 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.002251s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003092s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:24:19 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001626s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002499s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:24:19 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001801s ]
+23:24:19 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001287s ]
+23:24:19 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.002501s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007561s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:24:19 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.005162s ]
+23:24:19 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006415s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:24:52 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001950s ]
+23:24:52 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001571s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004815s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:24:52 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001375s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002213s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:24:52 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002867s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003862s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:24:52 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001633s ]
+23:24:52 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000924s ]
+23:24:52 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001740s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006164s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:24:52 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004854s ]
+23:24:52 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005832s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:26:41 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002309s ]
+23:26:41 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001630s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005697s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:26:41 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001371s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002220s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:26:41 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001257s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002126s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:26:41 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001724s ]
+23:26:41 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001010s ]
+23:26:41 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001697s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006132s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:26:41 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004290s ]
+23:26:41 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005061s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:34:22 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002677s ]
+23:34:22 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001751s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006290s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:34:22 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001577s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002537s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:34:22 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.003208s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.004483s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:34:22 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001554s ]
+23:34:22 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001596s ]
+23:34:22 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.002680s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007765s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:34:22 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004350s ]
+23:34:22 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005108s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:35:17 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.003354s ]
+23:35:17 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002425s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009086s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:35:17 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.002273s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003405s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:35:17 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001352s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002253s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:35:17 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.002771s ]
+23:35:17 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003572s ]
+23:35:17 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.004016s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012689s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:35:17 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004047s ]
+23:35:17 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005356s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:36:51 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001918s ]
+23:36:51 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002932s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006698s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:36:51 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.002438s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003365s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:36:51 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001238s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002109s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:36:51 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001448s ]
+23:36:51 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002966s ]
+23:36:51 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.003667s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010034s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:36:51 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.006143s ]
+23:36:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.007488s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:38:32 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.003005s ]
+23:38:32 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001733s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007199s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:38:32 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001797s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002910s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:38:32 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001896s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003003s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:38:32 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001895s ]
+23:38:32 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001091s ]
+23:38:32 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001811s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006833s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:38:32 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004532s ]
+23:38:32 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005565s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:40:51 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002269s ]
+23:40:51 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004259s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009088s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:40:51 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001774s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003310s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:40:51 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001327s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002239s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:40:51 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.002002s ]
+23:40:51 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001231s ]
+23:40:51 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.002501s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007978s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:40:51 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.006087s ]
+23:40:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006912s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:41:47 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002130s ]
+23:41:47 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001791s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005555s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:41:47 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001527s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002406s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:41:47 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001562s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002378s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:41:47 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001710s ]
+23:41:47 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001196s ]
+23:41:47 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001904s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007675s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:41:47 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.005440s ]
+23:41:47 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006333s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:48:27 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002280s ]
+23:48:27 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002159s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007192s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:48:27 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001644s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003588s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:48:27 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.004532s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.006356s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:48:27 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.004054s ]
+23:48:27 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001579s ]
+23:48:27 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001793s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009847s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:48:27 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.006008s ]
+23:48:27 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006856s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:55:40 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002001s ]
+23:55:40 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001553s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005295s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:55:40 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001481s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002471s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:55:40 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002500s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003406s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:55:40 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001937s ]
+23:55:40 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000952s ]
+23:55:40 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001847s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007180s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:55:40 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004466s ]
+23:55:40 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005269s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:56:42 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002743s ]
+23:56:42 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001830s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006045s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:56:42 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001431s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002280s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:56:42 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002630s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003486s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:56:42 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001913s ]
+23:56:42 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000960s ]
+23:56:42 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001696s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006258s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:56:42 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004299s ]
+23:56:42 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.005125s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:57:07 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002046s ]
+23:57:07 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001676s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005117s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:57:07 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001374s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002151s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:57:07 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002668s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003428s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:57:07 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001685s ]
+23:57:07 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001599s ]
+23:57:07 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001974s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007147s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:57:07 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.003797s ]
+23:57:07 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.004611s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:57:28 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002093s ]
+23:57:28 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002015s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005785s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:57:28 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001449s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002622s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:57:28 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002236s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002984s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:57:28 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001511s ]
+23:57:28 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000910s ]
+23:57:28 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001713s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005855s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:57:28 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.003642s ]
+23:57:28 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.004363s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:58:05 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.002732s ]
+23:58:05 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001603s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005656s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:58:05 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.002203s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.003146s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:58:05 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002273s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.003350s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:58:05 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.002412s ]
+23:58:05 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001725s ]
+23:58:05 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.002277s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008982s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:58:05 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.005872s ]
+23:58:05 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.006846s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:59:08 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001877s ]
+23:59:08 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001733s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004939s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:59:08 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001394s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002198s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:59:08 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.002226s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.002960s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:59:08 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001589s ]
+23:59:08 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000931s ]
+23:59:08 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001901s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006164s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:59:08 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.003769s ]
+23:59:08 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.004586s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --START--
+23:59:51 [DEBUG]: /index.php | INFO: Run CheckTemplate Behavior [ RunTime:0.001870s ]
+23:59:51 [DEBUG]: /index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001576s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004845s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --START--
+23:59:51 [DEBUG]: /index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001430s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.002257s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --START--
+23:59:51 [DEBUG]: /index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.001132s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001913s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --START--
+23:59:51 [DEBUG]: /index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001590s ]
+23:59:51 [DEBUG]: /index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001115s ]
+23:59:51 [DEBUG]: /index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001666s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006588s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --START--
+23:59:51 [DEBUG]: /index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.004127s ]
+23:59:51 [DEBUG]: /index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.004895s ]
