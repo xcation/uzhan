@@ -1,241 +1,76 @@
+<cajamodules include="kissy/1.3.0/core,gs/1.0/index" />
+<script src="/assets/javascripts/default.js"></script>
+<div class="admin_wrap">
+		<!-- 后台管理栏目STAR -->
+		<div class="admin_sidebar fl">
+			<div class="admin_subNav">
+				<div class="admin_title tc fb f18">后台管理</div>
+				<div class="divider"><span></span></div>
+				<ul class="admin_subNav_menu">
+					<li><a class="this" href="/index.php?g=Admin&m=business" title="" ><span class="icos-frames"></span>管理商家</a></li>
+                	<li><a href="/index.php?g=Admin&m=business" title=""><span class="icos-transfer"></span>审核商家</a></li>
+                	<li><a href="/index.php?g=Admin&m=user" title=""><span class="icos-transfer"></span>管理用户</a></li>
+                	<li><a href="/index.php?g=Admin&m=tip&a=insertarticle" title=""><span class="icos-transfer"></span>增加文章</a></li>
+                	<li><a href="/index.php?g=Admin&m=tip" title=""><span class="icos-transfer"></span>管理文章</a></li>
+				</ul>
+				<div class="divider"><span></span></div>
+				<div class="fluid sideWidget">
+                	<div class="grid6 tc"><input type="submit" class="buttonS bGreen" value="登录"/></div>
+                	<div class="grid6"><input type="submit" class="buttonS bRed" value="退出"/></div>
+            	</div>    
+				<div class="divider"><span></span></div>
+			</div>
+		</div>
+		<!-- 后台管理栏目END -->
 
-<!-- Sidebar begins -->
-<div class="sidebar">
-    <div class="mainNav">
-        
-        {$id}
-        <!-- Responsive nav -->
-        <div class="altNav">
-            <div class="userSearch">
-                <form action="">
-                    <input type="text" placeholder="search..." name="userSearch" />
-                    <input type="submit" value="" />
-                </form>
-            </div>
-            
-            <!-- User nav -->
-            <ul class="userNav">
-                <li><a href="#" title="" class="profile"></a></li>
-                <li><a href="#" title="" class="messages"></a></li>
-                <li><a href="#" title="" class="settings"></a></li>
-                <li><a href="#" title="" class="logout"></a></li>
-            </ul>
-        </div>
-        
-        <!-- Main nav -->
-        <ul class="nav">
-            <li><a href="index.html" title=""><span>Dashboard</span></a></li>
-            <li><a href="ui.html" title=""><span>UI elements</span></a>               
-            </li>
-            <li><a href="forms.html" title=""><span>Forms stuff</span></a>           
-            </li>
-            <li><a href="messages.html" title=""><span>Messages</span></a></li>
-            <li><a href="statistics.html" title=""><span>Statistics</span></a></li>
-            <li><a href="tables.html" title="" class="active"><span>Tables</span></a>
-              
-            </li>
-           
-        </ul>
-    </div>
-    
-    <!-- Secondary nav -->
-    <div class="secNav">
-        <div class="secWrapper">
-        
-            <!-- Sidebar dropdown -->
-            <ul class="fulldd">
-                <li class="has">
-                    <a title="">
-                        <span class="icos-money3"></span>
-                        Invoices
-                        <span><img src="images/elements/control/hasddArrow.png" alt="" /></span>
-                    </a>
-                    <ul>
-                        <li><a href="#" title=""><span class="icos-add"></span>New invoice</a></li>
-                        <li><a href="#" title=""><span class="icos-archive"></span>History</a></li>
-                        <li><a href="#" title=""><span class="icos-printer"></span>Print invoices</a></li>
-                    </ul>
-                </li>
-            </ul>
-            
-            <div class="divider"><span></span></div>
-            
-            <!-- Sidebar subnav -->
-            <ul class="subNav">
-                <li><a href="tables.html" title="" class="this"><span class="icos-frames"></span>Standard tables</a></li>
-                <li><a href="tables_dynamic.html" title=""><span class="icos-refresh"></span>Dynamic table</a></li>
-                <li><a href="tables_control.html" title=""><span class="icos-bullseye"></span>Tables with control</a></li>
-                <li><a href="tables_sortable.html" title=""><span class="icos-transfer"></span>Sortable and resizable</a></li>
-            </ul>
-            
-            <div class="divider"><span></span></div>
-        
-        	<!-- Sidebar big buttons -->
-            <div class="sidePad">
-                <a href="#" title="" class="sideB bBlue">Add new session</a>
-                <a href="#" title="" class="sideB bRed mt10">Add new session</a>
-                <a href="#" title="" class="sideB bGreen mt10">Add new session</a>
-                <a href="#" title="" class="sideB bGreyish mt10">Add new session</a>
-                <a href="#" title="" class="sideB bBrown mt10">Add new session</a>
-            </div>
-        
-            <div class="divider"><span></span></div>
-            
-          
-    		<!-- Sidebar buttons -->
-            <div class="fluid sideWidget">
-                <div class="grid6"><input type="submit" class="buttonS bRed" value="Cancel" /></div>
-                <div class="grid6"><input type="submit" class="buttonS bGreen" value="Submit" /></div>
-            </div>
-            
-            <div class="divider"><span></span></div>
-                    
-       </div> 
-       <div class="clear"></div>
-   </div>
-</div>
-<!-- Sidebar ends -->    
-	
-    
-<!-- Content begins -->
-<div class="content">
-   
-    <!-- Breadcrumbs line -->
-    <div class="breadLine">
-        <div class="bc">
-            <ul id="breadcrumbs" class="breadcrumbs">
-                <li><a href="index.html">Dashboard</a></li>
-                <li><a href="tables.html">Tables</a>
-                    <ul>
-                        <li><a href="tables_dynamic.html" title="">Dynamic table</a></li>
-                        <li><a href="tables_control.html" title="">Tables with control</a></li>
-                        <li><a href="tables_sortable.html" title="">Sortable and resizable</a></li>
-                    </ul>
-                </li>
-                <li class="current"><a href="tables.html" title="">Standard tables</a></li>
-            </ul>
-        </div>
-        
-        <div class="breadLinks">
-            <ul>
-                <li><a href="#" title=""><i class="icos-list"></i><span>Orders</span> <strong>(+58)</strong></a></li>
-                <li><a href="#" title=""><i class="icos-check"></i><span>Tasks</span> <strong>(+12)</strong></a></li>
-                <li class="has">
-                    <a title="">
-                        <i class="icos-money3"></i>
-                        <span>Invoices</span>
-                        <span><img src="images/elements/control/hasddArrow.png" alt="" /></span>
-                    </a>
-                    <ul>
-                        <li><a href="#" title=""><span class="icos-add"></span>New invoice</a></li>
-                        <li><a href="#" title=""><span class="icos-archive"></span>History</a></li>
-                        <li><a href="#" title=""><span class="icos-printer"></span>Print invoices</a></li>
-                    </ul>
-                </li>
-            </ul>
-             <div class="clear"></div>
-        </div>
-    </div>
-    
-    <!-- Main content -->
-    <div class="wrapper">
-        
-		<!-- Standard table -->
-        <div class="widget">
-            <div class="whead"><h6>Static table</h6><div class="clear"></div></div>
-            
-            <table cellpadding="0" cellspacing="0" width="100%" class="tDefault">
-                <thead>
+		<!-- 商家管理详细STAR -->
+		<div class="admin_content">
+			<div class="admin_breadLine">
+				<div class="admin_breadLinks">
+            		<ul>
+                		<li class="icon-left"><a href="#" title=""><i class="icos-list"></i><span>小报数据表单</span></a></li>
+                		<li><a href="#" title=""><i class="icos-listicos-list"></i><span>记录总数</span> <strong>({$count})</strong></a></li>
+                		<li><a href="#" title=""><i class="icos-check"></i><span>待审核</span><strong>(+1)</strong></a></li>
+                		<li><a href="#" title=""><i class="icos-check"></i><span></span>已审核<strong>(+2)</strong></a></li>
+            		</ul>
+             		<div class="clear"></div>
+       			</div>
+       			<div class="insert-btn"><a href="/index.php?g=Admin&m=Tip&a=insertarticle" class="buttonS bGreen">新建记录</a></div>
+			</div>
+			<div class="Data_Sheet">
+				<div class="widget">
+            		<div class="whead"><h6>小报数据表</h6></div>   
+            		<table cellpadding="0" cellspacing="0" width="100%" class="tDefault article-table">
+                		<thead>
                     <tr>
-                        <td>Column name</td>
-                        <td>Column name</td>
-                        <td>Column name</td>
-                        <td>Column name</td>
-                        <td>Column name</td>
+                        <td>小报id</td>
+                        <td>小报标题</td>
+                        <td>小报商家id</td>
+                        <td>小报地址</td>
+                        <td>操作</td>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                    <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                    <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                    <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                    <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                     <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                     <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                     <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                     <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
-                     <tr>
-                        <td>Row 1</td>
-                        <td>Row 2</td>
-                        <td>Row 3</td>
-                        <td>Row 4</td>
-                        <td>Row 5</td>
-                    </tr>
+                {foreach from=$list key=key item=item}
+                <tr class="article-list{$item.tip_id}">
+                    <td>{$item.tip_id}</td>
+                    <td>{$item.tip_title}</td>
+                    <td>{$item.tip_business_id}</td>
+                    <td>{$item.tip_url}</td>
+                    <td><a class="buttonS bRed article-del" data-id="{$item.tip_id}">删除</a>
+                    <a class="buttonS bBlue article-change" data-id="{$item.tip_id}">修改</a>
+                    <a class="buttonS bGold article-check" data-id="{$item.tip_id}">审核</a></td>
+                </tr>
+                {/foreach}
                 </tbody>
             </table>
         </div>
-    
+        <div class="result-status"><a></a></div>
+   
+        <div class="divider"><span></span></div>
+    </div>
+			</div>
+		</div>
+		<!-- 商家管理详细END -->
 
-    	
-       <div class="divider"><span></span></div>
-
-  </div>
-  <!-- Main content ends -->
-    
-</div>
-<!-- Content ends -->    
-<div class="clear"></div>
+	</div>
